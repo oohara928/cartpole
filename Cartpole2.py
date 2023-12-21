@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 DIGIT = 4
 
 #env = gym.make('CartPole-v1')
-env = gym.make('CartPole-v1')
+env = gym.make('CartPole-v1',render_mode='human')
 
 #___________________________________
 #___________________________________
