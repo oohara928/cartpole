@@ -1,7 +1,10 @@
 # cartpole
 # カートポールのQ学習プログラム
 ## 作者.大原秀斗
-![cartpole](https://github.com/oohara928/cartpole/blob/images/simplescreenrecorder-2023-12-21_16.57.53.mp4)
+
+https://github.com/oohara928/cartpole/assets/153799361/90b846ea-d4a8-4d6b-aa4a-0d153fc1d124
+
+
 #### cartpoleのプログラムをQ学習によって安定させるものです.
 #### Q学習の練習のために作成しました.
 #### 実行するとcartpoleの処理が始まり、学習が進むと棒が倒れないようになって安定します.
